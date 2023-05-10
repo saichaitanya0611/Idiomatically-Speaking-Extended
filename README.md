@@ -10,9 +10,9 @@ To run the code, you just need to perform the following steps:
     ```
     pip3 install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
     ```
-3 Install sentencepiece library
+3. Install sentencepiece library
     ```
-    pip install sentencepiece
+     pip install sentencepiece
     ```
 
 4. To train or test the system, There are steps modify train.py file and test.py file
