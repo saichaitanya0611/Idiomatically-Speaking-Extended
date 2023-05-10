@@ -35,7 +35,7 @@ To run the code, you just need to perform the following steps:
 
     
 # You can run final Project.ipynb after making the changes in test.py and train.py.
-# By default it will train English Model and makes prediction on all Test-set
+# By default it will train English Model and makes prediction on all Test-set(Robustness collected Dataset)
 
 # Hyper parameters can be tuned in train.py file.(lr, random seed, batchsize, epochs, patience)
 <br>
