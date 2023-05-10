@@ -34,6 +34,8 @@ To run the code, you just need to perform the following steps:
                                                                  dataset_type to either all, seen, unseen.<br>
     -> Run the test.py file and It will show you the precision, recall and F1-scores of the model on the test-set<br>
 
+<br>
+# You can uncomment the code in train.py and test.py to run it on different Bert Models
     
 # You can run final Project.ipynb after making the changes in test.py and train.py.
 # By default it will train English Model and makes prediction on all Test-set(Robustness collected Dataset)
