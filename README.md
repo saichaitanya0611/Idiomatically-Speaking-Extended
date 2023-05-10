@@ -13,6 +13,7 @@ To run the code, you just need to perform the following steps:
 3 Install sentencepiece library
     ```
     pip install sentencepiece
+    ```
 
 4. To train or test the system, There are steps modify train.py file and test.py file
 <br>
